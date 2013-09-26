@@ -1,0 +1,4 @@
+      2 temp_obs_Iqaluit.txt
+      2 temp_obs_SJ.txt
+      5 temp_obs_Van.txt
+      9 total
